@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fusionet24
+- 👀 I’m interested in all things data mainly in the Azure world
+- 🌱 I’m currently learning Bayesian Statisics and how to sleep better
+- 📫 How to reach me on twitter @fusionet24. I run a project called @DailyDatabricks on twitter and work at Avanade!
